@@ -16,6 +16,7 @@ print(rainfall_per_month)
 #Part 2
 print(sum(rainfall_per_month))
 
+Annual_Rainfall=sum(rainfall_per_month)
 #Part 2.2
 percentage= []
 for total_per_month in rainfall_per_month:
